@@ -1,0 +1,5 @@
+NAME=libjpeg-turbo
+VERSION=1.5.3
+REVISION=1
+SRC=https://downloads.sourceforge.net/libjpeg-turbo/libjpeg-turbo-1.5.3.tar.gz
+SRCMD5=7c82f0f6a3130ec06b8a4d0b321cbca3
